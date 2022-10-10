@@ -1,0 +1,6 @@
+framework module Pods_1SONIAiOSTask {
+  umbrella header "Pods-1SONIAiOSTask-umbrella.h"
+
+  export *
+  module * { export * }
+}
